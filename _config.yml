@@ -1,0 +1,7 @@
+title: Akuru App
+description: A desktop super app for Sri Lanka — tools for working with text, fonts, and writing in Official Languages.
+url: "https://akuruapp.mooniak.com"
+baseurl: ""
+
+kramdown:
+  parse_block_html: true
