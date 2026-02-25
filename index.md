@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Akuru App — Typography tools for Sri Lanka
+title: Akuru App — Langauge and Design Superapp for Sri Lanka
 description: A desktop superapp for creative and knowledge work in Sri Lanka. For individuals and organisations working with text, fonts, and writing in Official Languages.
 tagline: A desktop superapp for creative and knowledge work in Sri Lanka. For individuals and organisations working with text, fonts, and writing in Official Languages.
 waitlist_url: https://forms.gle/ZZa4qvQEW2VUAmwEA
