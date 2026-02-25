@@ -14,7 +14,7 @@ description: A desktop super app for Sri Lanka for working with text, fonts, and
 <section class="screenshots">
   <div class="container">
     <div class="screenshots-grid">
-      <img src="1.png" alt="Font Library — browse, preview, and install fonts">
+      <img src="./1.png" alt="Font Library — browse, preview, and install fonts">
       <img src="2.png" alt="Font Playground — test fonts on a live canvas">
       <img src="3.png" alt="Trilingual Glossary — English, Sinhala, and Tamil">
       <img src="4.png" alt="Font Playground — export PNG and vector files">
@@ -45,7 +45,7 @@ description: A desktop super app for Sri Lanka for working with text, fonts, and
 
 Launched on 21 February 2026 — World Mother Language Day. Join the waitlist to get access to the alpha.
 
-[Join the Waitlist](mailto:hello@mooniak.com){: .btn}
+[Join the Waitlist](https://forms.gle/ZZa4qvQEW2VUAmwEA){: .btn}
 
 </div>
 </section>
