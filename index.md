@@ -7,7 +7,7 @@ description: A desktop super app for Sri Lanka for working with text, fonts, and
 <section class="hero">
   <img src="icon.png" alt="Akuru App" class="icon">
   <h1>Akuru App</h1>
-  <p class="tagline">A desktop super app for Sri Lanka for individuals, businesses, and organisations working with text, fonts, and writing in Official Languages.</p>
+  <p class="tagline">A desktop superapp for creative and knoweldge work in Sri Lanka. For individuals and organisations working with text, fonts, and writing in Official Languages.</p>
   <span class="badge">Alpha</span>
 </section>
 
@@ -15,9 +15,9 @@ description: A desktop super app for Sri Lanka for working with text, fonts, and
   <div class="container">
     <div class="screenshots-grid">
       <img src="./1.png" alt="Font Library — browse, preview, and install fonts">
-      <img src="2.png" alt="Font Playground — test fonts on a live canvas">
-      <img src="3.png" alt="Trilingual Glossary — English, Sinhala, and Tamil">
-      <img src="4.png" alt="Font Playground — export PNG and vector files">
+      <img src="./2.png" alt="Font Playground — test fonts on a live canvas">
+      <img src="./3.png" alt="Trilingual Glossary — English, Sinhala, and Tamil">
+      <img src="./4.png" alt="Font Playground — export PNG and vector files">
     </div>
   </div>
 </section>
