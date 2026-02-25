@@ -177,7 +177,37 @@
 </head>
 <body>
 
-  {{ content }}
+  <section class="hero">
+    <img src="/icon.png" alt="Akuru App" class="icon">
+    <h1>Akuru App</h1>
+    <p class="tagline">{{ page.tagline | default: site.description }}</p>
+    <span class="badge">Alpha</span>
+  </section>
+
+  <section class="screenshots">
+    <div class="container">
+      <div class="screenshots-grid">
+        <img src="/1.png" alt="Font Library — browse, preview, and install fonts">
+        <img src="/2.png" alt="Font Playground — test fonts on a live canvas">
+        <img src="/3.png" alt="Trilingual Glossary — English, Sinhala, and Tamil">
+        <img src="/4.png" alt="Font Playground — export PNG and vector files">
+      </div>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="container">
+      {{ content }}
+    </div>
+  </section>
+
+  <section class="cta">
+    <div class="container">
+      <h2>Get early access</h2>
+      <p>Launched on 21 February 2026 — World Mother Language Day. Join the waitlist to get access to the alpha.</p>
+      <a href="{{ page.waitlist_url }}" class="btn">Join the Waitlist</a>
+    </div>
+  </section>
 
   <footer>
     <p>A <a href="https://mooniak.com">Mooniak</a> product &mdash; Made in Sri Lanka</p>
